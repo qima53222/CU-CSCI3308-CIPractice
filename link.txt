@@ -1,1 +1,6 @@
+Qihang Mao
+Shanli Ding
+
+https://travis-ci.com/qima53222/CU-CSCI3308-CIPractice/jobs/161890816
+
 https://github.com/qima53222/CU-CSCI3308-CIPractice
