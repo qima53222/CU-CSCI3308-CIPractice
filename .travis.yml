@@ -20,6 +20,7 @@ script:
 
 addons:
 	
-	apt:
+apt:
 	
-		update: true
+update: 
+ true
