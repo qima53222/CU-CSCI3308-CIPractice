@@ -1,6 +1,19 @@
 Qihang Mao
+
+travis:
+	
+	https://travis-ci.com/qima53222/CU-CSCI3308-CIPractice/jobs/161890816
+
+GitHub:
+
+	https://github.com/qima53222/CU-CSCI3308-CIPractice
+
 Shanli Ding
 
-https://travis-ci.com/qima53222/CU-CSCI3308-CIPractice/jobs/161890816
+travis:
 
-https://github.com/qima53222/CU-CSCI3308-CIPractice
+	https://travis-ci.com/Ding3LI/CU-CSCI3308-CIPractice/builds/93085117
+
+GitHub:
+
+	https://github.com/Ding3LI/CU-CSCI3308-CIPractice
