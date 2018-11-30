@@ -1,0 +1,15 @@
+language: c
+
+before_install:
+ - sudo apt-get update && sudo apt-get install -y check
+
+compiler:
+ - clang
+
+script:
+ - make
+ - make test
+
+addons:
+	apt:
+		update: true
