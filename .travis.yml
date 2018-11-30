@@ -19,8 +19,5 @@ script:
 
 
 addons:
-	
-apt:
-	
-update: 
- true
+	apt:
+        update: true
